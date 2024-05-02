@@ -1,3 +1,5 @@
+Data Analysis project with Power BI & SQL Server
+
 - 👋 Hi, I’m Mia Nuur Aini
 - 👀 I’m interested in Data Analysis
 - 🌱 I’m currently learning Visualization with Power BI
